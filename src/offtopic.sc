@@ -1,5 +1,5 @@
 patterns:
-    $you = (~ты/~вы/dd)
+    $you = (~ты/~вы)
 
 theme: /
 
